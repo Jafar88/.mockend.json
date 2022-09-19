@@ -1,5 +1,5 @@
 {
-   { "title": { "string": {} }
+   { "title": { "string": {} },
    {
      "userName": {
           "string": [
@@ -15,7 +15,7 @@
             "William Damian Daniel Thomas"
           ]
      }
-   }
+   },
 { "userPhone": { "regexp": "[A-Z][a-z]{5,10}" } }
 
 }
