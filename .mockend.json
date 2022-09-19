@@ -1,6 +1,6 @@
 {
-   { "title": { "string": {} },
-   {
+    "title": { "string": {} ,
+   
      "userName": {
           "string": [
             "Oliver Jake Noah James",
@@ -14,8 +14,8 @@
             "James Charlie James Charles",
             "William Damian Daniel Thomas"
           ]
-     }
+     
    },
-{ "userPhone": { "regexp": "[A-Z][a-z]{5,10}" } }
+   "userPhone": { "regexp": "[A-Z][a-z]{5,10}" } 
 
 }
